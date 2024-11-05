@@ -48,3 +48,26 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## ANOTAÇÕES DA AULA 05.11
+
+*NOTAS*
+**
+-> Em alguns App.js é o index.tsx
+**
+
+**EXTENSÕES // BIBLIOTECA**
+**
+-> ES7 React/Redux/GraphQL/React-Native snippets
+-> React Native Tools
+-> Expo Tools
+-> Prettier - Code formatter
+-> ES Lint
+-> Auto Import
+**
+
+
+-----------------------------------------------------------------------------------------------------------------------
